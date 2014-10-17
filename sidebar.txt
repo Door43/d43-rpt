@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rpt:home|Door43 (rpt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rpt|d43-rpt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rpt/archive/master.zip|d43-rpt.zip]]
+
+**Recent Changes**
+{{changes>ns = rpt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rpt|Ethnologue data]]
+
